@@ -1,10 +1,10 @@
 {
   "name": "@convex-dev/stripe",
   "description": "A stripe component for Convex.",
-  "repository": "github:get-convex/stripe",
-  "homepage": "https://github.com/get-convex/stripe#readme",
+  "repository": "github:pngg/convex-dev-stripe",
+  "homepage": "https://github.com/pngg/convex-dev-stripe#readme",
   "bugs": {
-    "url": "https://github.com/get-convex/stripe/issues"
+    "url": "https://github.com/pngg/convex-dev-stripe/issues"
   },
   "version": "0.1.2",
   "license": "Apache-2.0",
@@ -95,6 +95,6 @@
   "types": "./dist/client/index.d.ts",
   "module": "./dist/client/index.js",
   "dependencies": {
-    "stripe": "^20.1.0"
+    "stripe": "^20.2.0-beta.1"
   }
 }
